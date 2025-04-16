@@ -17,6 +17,10 @@ This will create 2 files.
 
 Run ./tcp_client and ./tcp_server separately.
 
+# How to use:
+
+Start client and server, then enter requested data in client.
+
 # How to improve: 
 
 ! Store received orders in a local file or database
